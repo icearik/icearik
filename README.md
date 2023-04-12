@@ -2,7 +2,6 @@
 - I’m interested in Systems Programming and Software Development
 - I’m looking to collaborate on open-source projects
 - Check the projects that I posted
-- How to reach me aisarov01@gmail.com
 
 <!---
 icearik/icearik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
